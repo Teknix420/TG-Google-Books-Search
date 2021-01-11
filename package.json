@@ -1,5 +1,5 @@
 {
-  "name": "Google Books Search",
+  "name": "gbs",
   "version": "1.0.0",
   "description": "Google Books Search App",
   "main": "server.js",
